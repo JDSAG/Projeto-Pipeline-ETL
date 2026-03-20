@@ -232,4 +232,5 @@ migração de dados entre sistemas**.
   Emails inválidos       109
   Duplicados             6
 
-<img width="715" height="456" alt="Captura de tela 2025-10-09 195927" src="https://github.com/user-attachments/assets/0e485e2c-a3d9-4b76-981b-b1abe07c53ec" />
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/f5c340fb-b1dd-4b61-a297-f3540a7e8ea5" />
+
