@@ -16,6 +16,6 @@ def load_db(df):
             result = conn.execute(stmt)
             conn.commit()
             
-            return f'Importação concluída! \n{result.rowcount} usuários cadastrados com sucesso!'
+            print (f'Importação concluída! \n{result.rowcount} usuários cadastrados com sucesso!')
         except Exception as e:
             print(f'Error: {e}')
