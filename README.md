@@ -231,6 +231,6 @@ migração de dados entre sistemas**.
   Telefones inválidos    17
   Emails inválidos       109
   Duplicados             6
-
-<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/f5c340fb-b1dd-4b61-a297-f3540a7e8ea5" />
-
+  
+  
+  <img width="482" height="155" alt="Captura de tela 2026-03-20 090715" src="https://github.com/user-attachments/assets/efebf5d3-1f0a-4041-bbff-da9496e2b9af" />
